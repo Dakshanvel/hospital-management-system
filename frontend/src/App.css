@@ -1,0 +1,35 @@
+
+.hospital-navbar {
+  background-color: #163b65;
+}
+
+.app-background {
+  background-color: #f4f7fb;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.card-header {
+  border-bottom: 1px solid #e9edf3;
+}
+
+.form-control,
+.form-select {
+  padding: 10px 12px;
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: #6ea8fe;
+  box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.12);
+}
+
+.table th {
+  white-space: nowrap;
+}
+
+.btn {
+  border-radius: 7px;
+}
